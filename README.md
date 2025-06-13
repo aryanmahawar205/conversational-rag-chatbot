@@ -257,4 +257,4 @@ Have feedback, issues, or ideas?
 
 * Open an issue on GitHub
 * Submit a pull request
-* Contact the maintainer (replace with actual email/contact info)
+* Contact the maintainer (aryanmahawar205@gmail.com)
