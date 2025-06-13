@@ -1,0 +1,4 @@
+load files -> split into smaller chunks (divide and conquer) -> embed into vectors -> store in vector dbs
+
+you can upload documents, and ask it questions based on that
+aim -> make a conversational RAG which basically means that the user is able to ask follow up questions...the chatbot understands the previous questions
