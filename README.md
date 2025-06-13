@@ -55,7 +55,6 @@ RAG-CHATBOT/
 ├── .gitignore                   # Git ignore rules
 ├── LICENSE                      # MIT License
 ├── notes.txt                    # Dev notes
-├── rag_fastapi.ipynb            # Notebook for testing
 ├── README.md                    # This file
 └── requirements.txt             # Dependencies
 ```
